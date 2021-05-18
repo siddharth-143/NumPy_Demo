@@ -1,2 +1,2 @@
 # NumPy_Demo
-NumPy module demo
+NumPy module demo for beginners
